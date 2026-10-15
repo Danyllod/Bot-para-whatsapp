@@ -1,0 +1,5 @@
+# Relatórios e planilhas geradas contêm dados de pacientes
+*.pdf
+campanha_*.xlsx
+campanha_*.csv
+__pycache__/
